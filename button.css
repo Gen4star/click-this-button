@@ -1,0 +1,23 @@
+.clickme{
+	display:flex;
+	justify-content: center;
+}
+
+body{
+	background: grey;
+}
+
+h1{
+	color:red;
+	font-weight: bold;
+	font-size:40px;
+}
+
+button{
+	position: relative;
+	left:20px;
+}
+
+a{
+	color:white;
+}
